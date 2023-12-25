@@ -116,7 +116,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="left"
             android:textSize="20sp"
-            android:textColor="FAFAFA"
+            android:textColor="#FAFAFA"
             android:layout_marginTop="5dp"/>
     </LinearLayout>
     <LinearLayout
