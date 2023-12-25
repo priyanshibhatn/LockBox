@@ -71,6 +71,7 @@
                 android:layout_height="wrap_content"
             android:layout_gravity="center"
                 android:text="Encrypt"
+                android:background="@drawable/buttonoutline"
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:onClick="enc"
@@ -131,6 +132,7 @@
                android:layout_gravity="center"
                android:text="Copy"
                android:textStyle="bold"
+               android:background="@drawable/buttonoutline"
                android:textSize="20sp"
                android:textColor="#EDC9AE"
                android:onClick="cp2"/>
